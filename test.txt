@@ -1,0 +1,1 @@
+Texto prueba desde consola con SSH
